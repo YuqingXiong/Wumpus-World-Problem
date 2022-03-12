@@ -1,18 +1,4 @@
-Wumpus World PEAS 描述：
-性能度量：
-gold +1000, death -1000-
-1 per step, -10 for using the arrow
-环境描述：
-Squares adjacent to wumpusare smelly
-Squares adjacent to pit are breezy
-Glitter iffgold is in the same square
-Shooting kills wumpus if you are facing it
-Shooting uses up the only arrow
-Grabbing picks up gold if in same square
-Releasing drops the gold in same square
-传感器：Stench, Breeze, Glitter, Bump, Scream
-执行器：Left turn, Right turn, Forward, Grab, Release, Shoot
-
+**Please click here**:https://yuqingxiong.github.io/Wumpus-World-Problem/
 Wumpus世界的PEAS描述
 - 性能度量：金子+100，死亡-1000，每一步-1，用箭-10
 - 环境：4×4网格，智能体初始在[1,1]，面向右方，金子和wumpus在[1,1]之外随机均匀分布
