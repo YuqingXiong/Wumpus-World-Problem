@@ -1,4 +1,5 @@
 **Please click here**:https://yuqingxiong.github.io/Wumpus-World-Problem/
+# 问题描述
 Wumpus世界的PEAS描述
 - 性能度量：金子+100，死亡-1000，每一步-1，用箭-10
 - 环境：4×4网格，智能体初始在[1,1]，面向右方，金子和wumpus在[1,1]之外随机均匀分布
